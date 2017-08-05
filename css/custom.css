@@ -1,0 +1,16 @@
+#button2 {
+	/*margin-top: 1em;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;*/
+	/*margin: 0 auto;*/
+	vertical-align: middle;
+	background-color: #E86B05;
+	  border: solid #FFA25A .2em;
+	}
+
+@media screen and (min-width: 992px){
+	#button2{
+		margin-top: 10%;
+	}
+}  
