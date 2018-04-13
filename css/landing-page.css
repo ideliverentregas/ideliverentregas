@@ -104,8 +104,8 @@ h6 {
 }
 
 .section-heading {
-    padding-top: 0px;
-    margin-bottom: 0px;
+   float: top;
+    margin-bottom: -20px;
 }
 
 .section-heading-spacer {
