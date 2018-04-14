@@ -83,16 +83,7 @@ h6,{
     .intro-divider {
         width: 100%;
     }
-}
-ul, menu, dir {
-    display: block;
-    list-style-type: disc;
-    -webkit-margin-before: 0em;
-    -webkit-margin-after: 0em;
-    -webkit-margin-start: 0px;
-    -webkit-margin-end: 0px;
-    -webkit-padding-start: 80px;
-}
+
 .network-name {
     text-transform: uppercase;
     font-size: 14px;
